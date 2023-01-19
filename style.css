@@ -1,0 +1,18 @@
+body{
+    background: rgb(190, 240, 237);
+    margin-left: 20px;
+    text-align: center;
+}
+
+h1{
+    color: red;
+    font-size: 60px;
+    
+}
+h2{
+    font-size:30px;
+}
+
+img{
+    margin-left: 10px;
+}
